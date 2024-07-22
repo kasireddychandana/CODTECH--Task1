@@ -16,3 +16,10 @@ User chooses the desired operation. Options 1, 2, 3, and 4 are valid. Two number
 Approach: We can choose the desired operation from the option of a, b, c, and d. We can take two numbers, and if… elif… else, branching is used for executing the particular operation. We will use add(), subtract(), multiply() and divide() function for evaluation the respective operation in the calculator.
 
 
+OUTPUT:
+
+![task1](https://github.com/user-attachments/assets/16d9543b-d7a1-44f9-9053-87f6941e73d0)
+
+
+
+
